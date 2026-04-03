@@ -58,7 +58,7 @@
       open: true,
       proxy: {
         '/api': {
-          target: 'https://amsd-project-1.onrender.com',
+          target: 'https://test-hbwi.onrender.com',
           changeOrigin: true,
           secure: false,
         }
