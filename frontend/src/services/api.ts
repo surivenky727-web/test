@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:4001';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://test-hbwi.onrender.com';
 export const apiCall = async (
   endpoint: string,
   options: RequestInit = {}
